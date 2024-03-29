@@ -28,7 +28,7 @@ To install Todo Assignment, follow these steps:
 
 To use Todo Assignment, follow these steps:
 
-1. Start the development server: `npm run dev`
+1. Start the development server: ```npm run dev```
 2. Open your browser and navigate to `http://localhost:3000`
 
 ## Deployed Version
