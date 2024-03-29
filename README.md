@@ -34,7 +34,7 @@ To use Todo Assignment, follow these steps:
 ## Deployed Version
 
 You can view the deployed version of the app here:
-https://6607363df4b89b62ea637a6e--glistening-meringue-3c71cc.netlify.app/
+https://zeeshan-todo-app.netlify.app/
 
 ## Contact
 
