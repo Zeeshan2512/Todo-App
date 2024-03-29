@@ -4,10 +4,11 @@ This is a Todo application built with React, Redux Toolkit, and Tailwind CSS.
 
 ## Features
 
-- Add a new todo
-- Mark and unmark a todo as completed ornot completed
-- Delete a todo
-- Used localStorage to store todos for persistent storage
+- Add a new tasks
+- View all tasks
+- Mark and unmark a tasks as completed or not completed
+- Delete a tasks
+- Used localStorage for persistent storage of tasks
 
 ## Prerequisites
 
