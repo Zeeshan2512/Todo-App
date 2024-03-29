@@ -21,14 +21,14 @@ Before you begin, ensure you have met the following requirements:
 To install Todo Assignment, follow these steps:
 
 1. Clone the repository
-2. Navigate into the project directory: cd todo-assignment
-4. Install the dependencies: npm install
+2. Navigate into the project directory: `cd todo-assignment`
+4. Install the dependencies: `npm install`
 
 ## Using Todo Assignment
 
 To use Todo Assignment, follow these steps:
 
-1. Start the development server: npm run dev
+1. Start the development server: `npm run dev`
 2. Open your browser and navigate to `http://localhost:3000`
 
 ## Deployed Version
